@@ -1,11 +1,23 @@
 {
   "name": "raw-node-api-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basirul-billah/raw-node-api-project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/basirul-billah/raw-node-api-project/issues"
+  },
+  "homepage": "https://github.com/basirul-billah/raw-node-api-project#readme",
+  "description": ""
 }
