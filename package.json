@@ -19,5 +19,8 @@
     "url": "https://github.com/basirul-billah/raw-node-api-project/issues"
   },
   "homepage": "https://github.com/basirul-billah/raw-node-api-project#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
 }
